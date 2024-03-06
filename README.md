@@ -1,5 +1,5 @@
 # Python-News-Scraping-and-Archiving-App
-(solo project from Uni - Full mark(30/30))
+(Uni solo project - Full mark(30/30))
 
 Developed an application using Python to analyze the API of a specific news website, extracting news content and images. This application allows users to download or view news content locally
 
